@@ -1,7 +1,7 @@
 
 # Sorting specifications
 
-This is an console appliaction which shows the specification of sorting algorithms on specific sets of numbers.
+This is an console application which shows the specification of sorting algorithms on specific sets of numbers.
 
 
 ## Install and open
