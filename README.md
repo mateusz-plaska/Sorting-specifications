@@ -21,5 +21,6 @@ Clone the repository and open .sln file in Microsoft Visual Studio. Then run the
 C++
 
 ## Preview screenshot
-![App Screenshot](sort1.png)
-![App Screenshot](sort2.png)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1s-vJlz0Pu59PedStG74yw3lkF8529SfQ)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1P7pAQNVtu6Vdt2tHKNiFtT46nqlCZ0rb)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1oBytc-P9OJvebNM0lxQoA6_rlL_49TMa)
